@@ -1,0 +1,3 @@
+"""
+Orçamento Vivo - protótipo simplificado.
+"""
